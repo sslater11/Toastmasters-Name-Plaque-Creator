@@ -1,0 +1,34 @@
+# How to use this file
+# Put each new toastmaster's name on a new line.
+# Separate the name from the font size with a comma.
+# You don't have to include the font size, this is only to make the font smaller for longer file name
+# Default fontsize is 140
+# The best fontsize for two lines is 100
+#
+# To make a word go on another line, include<br> inbetween the words.
+# e.g.
+# Simon<br>is amazing
+# will make the words displayed as
+# Simon
+# is amazing
+#
+# e.g.
+# Simon, 140
+# Bob
+# Jimmy<br>Club President, 100
+
+
+# Change the names below.
+Becky
+Billy
+
+# These work well for those with titles.
+Bianca<p style="font-size: 55px; line-height: 1;">DTM<br>Distinguished Toast Master</p>, 110
+Beyonce<p style="font-size: 55px; line-height: 1;">Vice President<br>of Education</p>, 110
+Betty<p style="font-size: 55px; line-height: 1;">Vice President<br>of Public Relations</p>, 110
+Ben<p style="font-size: 55px; line-height: 1;">Vice President<br>of Membership</p>, 110
+Bobby<p style="font-size: 70px; line-height: 1;">Club President</p>, 120
+Benny<p style="font-size: 70px; line-height: 1;">Secretary</p>, 120
+Bill<p style="font-size: 70px; line-height: 1;">Treasurer</p>, 120
+Benjamin<p style="font-size: 70px; line-height: 1;">Sergeant at Arms</p>, 120
+
