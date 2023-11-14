@@ -7,6 +7,7 @@ Fold the paper/card lengthways, and the club member's name will appear on both s
 Example with fold lines [Example Output](example_output.html).
 
 Example without fold lines [Example Output](./example_output_without_fold_lines.html).
+
 <img src="example_page.jpg" >
 
 # Requirements
